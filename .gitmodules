@@ -1,0 +1,3 @@
+[submodule "submodules/test3"]
+	path = submodules/test3
+	url = https://github.com/crehders/test3
